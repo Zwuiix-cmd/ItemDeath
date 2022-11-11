@@ -1,0 +1,2 @@
+item: "id:meta"
+message: "{KILLER}[{KILLER_ITEMS}] a tué {PLAYER}[{PLAYER_ITEMS}]"

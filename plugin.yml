@@ -1,0 +1,6 @@
+name: ItemDeath
+version: 1.0.0
+api: 4.0.0
+main: Zwuiix\ItemDeath\Main
+authors:
+  - Zwuiix
